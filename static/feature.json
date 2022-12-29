@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "title": "MTCE 4147 ER25 2.2kW",
+        "src": "/img/feature/mtce_feature.png",
+        "link": "mtce/32"
+    },
+    {
+        "id": 1,
+        "title": "QTCE 4147 HSK32-C 2.2kW",
+        "src": "/img/feature/qtce_2.2_feature.png",
+        "link": "qtce/2"
+    },
+    {
+        "id": 2,
+        "title": "ATC41 ISO20 1.1kW",
+        "src": "/img/feature/atc41_1.1_feature.png",
+        "link": "atc/1"
+    },
+    {
+        "id": 3,
+        "title": "ATC41 ISO20 2.2kW",
+        "src": "/img/feature/atc41_2.2_feature.png",
+        "link": "atc/3"
+    },
+    {
+        "id": 4,
+        "title": "ATC41 ISO20 2.2kW Liquid Cooled",
+        "src": "/img/feature/atc41_2.2_lc_feature.png",
+        "link": "atc/5"
+    },
+    {
+        "id": 5,
+        "title": "ATC71 ISO30 7.5kW",
+        "src": "/img/feature/atc71_feature.png",
+        "link": "atc/16"
+    }
+]   

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "title": "Automotive",
+        "src": "/img/productlanding/Automotive.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Aviation",
+        "src": "/img/productlanding/Aviation.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Boat",
+        "src": "/img/productlanding/Boat.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Train",
+        "src": "/img/productlanding/Train.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Windows and Doors",
+        "src": "/img/productlanding/Windows_doors.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Wood",
+        "src": "/img/productlanding/Wood.jpg"
+    }
+]   
